@@ -22,7 +22,7 @@ Hello!! Here you'll discover a showcase of my projects as a freelance WordPress 
 **Link:** https://arscornutrition.com/
 
 **Output:**
-![Screenshot (146)](https://github.com/user-attachments/assets/761ba54e-b0f2-470f-964d-1754bedb8134)
+![Screenshot (146)](https://github.com/user-attachments/assets/6ecba788-e6a8-4ff8-a233-eb4051efd1e7)
 
 ![arscor 2024-08-02 16 29 45](https://github.com/user-attachments/assets/c3f03159-87b0-47c5-8fb2-854fe9774b06)
 
