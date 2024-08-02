@@ -14,3 +14,16 @@ Hello!! Here you'll discover a showcase of my projects as a freelance WordPress 
 
 ![boxanything_2024-08-02 15 38 49](https://github.com/user-attachments/assets/7b7fbd91-a148-4b27-83cd-f4df67f558c2)
 
+### Project 2
+**Company:** WapVenture
+
+**Description:** WapVenture is the leading AI-powered software and marketing company based in Greater Noida, Uttar Pradesh. During my 1-month internship at WapVenture, I contributed to various team projects, including the Mabcab and ArscorNutrition websites. The Arscor website specifically involved WooCommerce integration. My responsibilities included completing specific tasks and building assigned webpages, showcasing my ability to contribute effectively to team projects.
+
+**Link:** https://arscornutrition.com/
+
+**Output:**
+![Screenshot (146)](https://github.com/user-attachments/assets/761ba54e-b0f2-470f-964d-1754bedb8134)
+
+![arscor 2024-08-02 16 29 45](https://github.com/user-attachments/assets/c3f03159-87b0-47c5-8fb2-854fe9774b06)
+
+
