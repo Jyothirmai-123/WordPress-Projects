@@ -26,4 +26,12 @@ Hello!! Here you'll discover a showcase of my projects as a freelance WordPress 
 
 ![arscor 2024-08-02 16 29 45](https://github.com/user-attachments/assets/c3f03159-87b0-47c5-8fb2-854fe9774b06)
 
+### Project 3
+**Company:** IC Solutions
 
+**Description:** I am currently working as a remote intern at IC Solutions, located in Bengaluru, Karnataka. I am grateful to Anurag Sir for believing in my abilities and providing me with this opportunity. Under his guidance, I have developed websites for clients, including Prakrat and Profinish.
+
+- **Prakrat:** https://prakat.fruitbowl.tech/
+- **Profinish:** https://profinish.digiwaveug.com/
+
+**Output:**
