@@ -1,4 +1,4 @@
-# My WordPress-Projects
+![image](https://github.com/user-attachments/assets/05e24cf7-a8ed-4931-b8d5-c79ca4978bc3)# My WordPress-Projects
 Hello!! Here you'll discover a showcase of my projects as a freelance WordPress developer.
 
 ## Projects
@@ -31,7 +31,21 @@ Hello!! Here you'll discover a showcase of my projects as a freelance WordPress 
 
 **Description:** I am currently working as a remote intern at IC Solutions, located in Bengaluru, Karnataka. I am grateful to Anurag Sir for believing in my abilities and providing me with this opportunity. Under his guidance, I have developed websites for clients, including Prakrat and Profinish.
 
-- **Prakrat:** https://prakat.fruitbowl.tech/
-- **Profinish:** https://profinish.digiwaveug.com/
+- **Profinish:** https://newprofinish.fruitbowl.tech/
+- **Prakrat:** https://prakratadvisors.com/
+- **SweetTalks:** https://sweattalks.fruitbowl.tech/
+- **Digiwave:** https://digiwavetz.com/
+- **Easyprop Realty:** https://easyproprealty.com/
+- **TheCaneCorner:** https://thecanecorner.com/
 
 **Output:**
+
+**Digiwave:**
+
+**Easyprop Realty:**
+![Screenshot 2025-02-19 185656](https://github.com/user-attachments/assets/7b576e31-0756-429f-b76e-d8dba8485eb2)
+
+![easyproprealty](https://github.com/user-attachments/assets/e1c01595-d238-4b29-a1be-89a6fa511484)
+
+**TheCaneCorner:**
+![canecorner](https://github.com/user-attachments/assets/04f9fc74-5371-4ea6-ba74-ff950492b17d)
