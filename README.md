@@ -49,7 +49,6 @@ Hello!! Here you'll discover a showcase of my projects as a freelance WordPress 
 **SweetTalks:**
 
 ![Screenshot 2025-02-19 235357](https://github.com/user-attachments/assets/e2a3cd39-1603-4e72-8109-b521e75b6f7a)
-
 ![Screenshot 2025-02-19 235156](https://github.com/user-attachments/assets/2f40ffee-d45b-45f8-8ae3-539bc574ce71)
 
 **Easyprop Realty:**
