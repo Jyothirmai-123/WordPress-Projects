@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/05e24cf7-a8ed-4931-b8d5-c79ca4978bc3)# My WordPress-Projects
+# My WordPress-Projects
 Hello!! Here you'll discover a showcase of my projects as a freelance WordPress developer.
 
 ## Projects
@@ -32,20 +32,39 @@ Hello!! Here you'll discover a showcase of my projects as a freelance WordPress 
 **Description:** I am currently working as a remote intern at IC Solutions, located in Bengaluru, Karnataka. I am grateful to Anurag Sir for believing in my abilities and providing me with this opportunity. Under his guidance, I have developed websites for clients, including Prakrat and Profinish.
 
 - **Profinish:** https://newprofinish.fruitbowl.tech/
-- **Prakrat:** https://prakratadvisors.com/
+- **TheCaneCorner:** https://thecanecorner.com/
 - **SweetTalks:** https://sweattalks.fruitbowl.tech/
 - **Digiwave:** https://digiwavetz.com/
 - **Easyprop Realty:** https://easyproprealty.com/
-- **TheCaneCorner:** https://thecanecorner.com/
+- **Prakrat:** https://prakratadvisors.com/
 
 **Output:**
 
-**Digiwave:**
+**Profinish**
+
+![Screenshot 2025-02-19 235951](https://github.com/user-attachments/assets/2c59c18e-6086-446c-98a3-a67d35bfcb65)
+![Screenshot 2025-02-20 000121](https://github.com/user-attachments/assets/1a413749-2754-4074-92a0-b55a3529541b)
+![Screenshot 2025-02-20 000050](https://github.com/user-attachments/assets/c7ffcc22-e276-4ec7-a82a-b6413b23340f)
+
+**SweetTalks:**
+
+![Screenshot 2025-02-19 235357](https://github.com/user-attachments/assets/e2a3cd39-1603-4e72-8109-b521e75b6f7a)
+
+![Screenshot 2025-02-19 235156](https://github.com/user-attachments/assets/2f40ffee-d45b-45f8-8ae3-539bc574ce71)
 
 **Easyprop Realty:**
+
 ![Screenshot 2025-02-19 185656](https://github.com/user-attachments/assets/7b576e31-0756-429f-b76e-d8dba8485eb2)
 
 ![easyproprealty](https://github.com/user-attachments/assets/e1c01595-d238-4b29-a1be-89a6fa511484)
 
 **TheCaneCorner:**
+
 ![canecorner](https://github.com/user-attachments/assets/04f9fc74-5371-4ea6-ba74-ff950492b17d)
+
+**Prakrat:**
+
+![Screenshot 2025-02-19 234458](https://github.com/user-attachments/assets/ae4c8f47-75cc-43d0-9b4d-cf34558a612a)
+![Screenshot 2025-02-19 234548](https://github.com/user-attachments/assets/5f063afa-6933-43fd-828a-b039690f4400)
+
+
